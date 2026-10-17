@@ -1,8 +1,8 @@
 class OmpT3 < Formula
   desc "Connects T3 Code to Oh My Pi without code forks"
   homepage "https://github.com/hashangit/omp-t3"
-  url "https://registry.npmjs.org/omp-t3/-/omp-t3-1.3.0-3.tgz"
-  sha256 "d834d60f441ff29d5d5d3656c3e861c22a6d7ff1891ff520f10cdb5a70a9a02f"
+  url "https://registry.npmjs.org/omp-t3/-/omp-t3-1.3.0-4.tgz"
+  sha256 "d2b999e814ae47447037430ab9c2f63e07d1864d3df6b7631e6ef0394e879540"
   license "MIT"
 
   depends_on "node"
